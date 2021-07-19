@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [ISSUE](https://github.com/mslancer/money-transfer/issues/1)
+* [Неверная сумма на карте клиента при пополнения счета](https://github.com/mslancer/money-transfer/issues/1)
 
 ## Описание процесса тестирования
 
